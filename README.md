@@ -29,4 +29,6 @@ https://lh5.googleusercontent.com/XfD64_NDhb_YW2t3WHl6u4EXsLOfvJAy_bKTdusCsiGotD
 https://lh5.googleusercontent.com/z277AK72n7ZJxx2wNAfKb3uz8X3HLltLD2_q28lPn8k0BWJDvVwuuYKvVHKrgi3dGOBLq7WecrYr626o2PMq-qQ656itOFVsrswFjwNC0Tw-df_JQmk0SOCJfRfQE3X-38rmjM1l8iSvnyXQODqoQnI <br> <br>
 
 # Diagrama Tableau:<br>
-https://public.tableau.com/app/profile/mereuta.cosmin/viz/Proiect2_final/Dashboard1 
+https://public.tableau.com/app/profile/mereuta.cosmin/viz/Proiect2_final/Dashboard1 <br><br>
+# CSV-ul Obtinut dupa rularea scriptului<br>
+[Proiect_DA_Mereuta_Cosmin.csv](https://github.com/user-attachments/files/16751649/Proiect_DA_Mereuta_Cosmin.csv)
